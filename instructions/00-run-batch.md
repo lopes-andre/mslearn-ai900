@@ -6,4 +6,4 @@
 
 ![Visual Studio Code Icon](./images/vscode.jpg)
 
-3. Quando abrir, você deverá ver o projeto MSLEARN-AI900 no painel à esquerda. Essa pasta contém os laboratórios para o curso. project on the left-hand panel. This file contains the labs for the course. 
+3. Quando abrir, você deverá ver o projeto MSLEARN-AI900 no painel à esquerda. Essa pasta contém os laboratórios para o curso.
