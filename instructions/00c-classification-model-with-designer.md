@@ -1,9 +1,9 @@
 ---
-lab:
-    title: 'Create a Classification Model with Azure Machine Learning designer'
+Laboratório:
+    Título: 'Criar um modelo de classificação com o designer do Azure Machine Learning'
 ---
 
-## Instructions
-In this lab we will look at how to create classification models using Azure Machine Learning designer.
+## Instruções
+Neste laboratório nós vamos ver como criar modelos de classificação usando o designer do Azure Machine Learning.=
 
-1.	Go to the Microsoft Learn module at https://docs.microsoft.com/learn/modules/create-classification-model-azure-machine-learning-designer/
+1.	Vá para o módulo do Microsoft Learn em https://docs.microsoft.com/learn/modules/create-classification-model-azure-machine-learning-designer/
